@@ -3,12 +3,12 @@ body {
     margin: 0 0 0 0;
 }
 
-.up-section {
+/* .up-section { 
     border: 1px black solid;
     text-align: center;
     height: 30px;
 } 
-
+•/
 /* this is the nav bar */
 .nav{
     background-color: black;
@@ -27,6 +27,13 @@ body {
 li {
     display: inline-block;
     color: white;
+    font-size: 15px;
+}
+
+li:hover {
+    display: inline-block;
+    color: white;
+    font-size: 20px;
 }
 
 .hero {
