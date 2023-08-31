@@ -7,11 +7,22 @@ body {
     text-align: center;
     height: 30px;
 }
-
+/* this is the nav bar */
 .nav{
     border: 1px black solid;
-    text-align: center;
+    display: flex;
+    justify-content: center;
     height: 30px;
+}
+
+.nav-button-group{
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+}
+/* this is the button group */
+li {
+    display: inline-block;
 }
 
 .hero {
