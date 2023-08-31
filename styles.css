@@ -1,0 +1,34 @@
+body {
+    max-height: 100vh;
+}
+
+.up-section {
+    border: 1px black solid;
+    text-align: center;
+    height: 30px;
+}
+
+.nav{
+    border: 1px black solid;
+    text-align: center;
+    height: 30px;
+}
+
+.hero {
+    border: 1px black solid;
+    text-align: center;
+    height: 180px;
+    background-image: url(./images/banner.jpeg);
+}
+
+.main-section {
+    border: 1px black solid;
+    text-align: center;
+    height: 8110x;
+}
+
+.footer {
+    border: 1px black solid;
+    text-align: center;
+    height: 80px;
+}
